@@ -147,3 +147,8 @@ support-crm/
 │   └── package.json
 └── README.md
 ```
+## 🚀 Live Demo
+https://support-crm-production-2037.up.railway.app/
+
+## 🎥 Demo Video
+https://drive.google.com/file/d/1bgRBrBfyducLM7asoILc1dzhlEHi67du/view?usp=sharing
